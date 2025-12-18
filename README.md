@@ -1,6 +1,10 @@
 # MPGE
 
 <p align="center">
+  Hey, I'm Matt! I've been a developer for more than 14 years, and I've worked with more stacks than I can count over the years.
+</p>
+
+<p align="center">
   <a href="https://indiepa.ge/mpg" target="_blank">
     <img src="https://img.shields.io/badge/IndiePage-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -11,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>Builder mindset.</b> I ship ops-grade software: inventory, fulfillment, integrations, automation.
+  <b>Builder mindset.</b> I ship products that help everyday users, like yourself.
 </p>
 
 ---
@@ -26,21 +30,14 @@
 - **Scale-ready**: multi-tenant patterns and performance-minded architecture
 
 > North Star: reduce manual touches, increase throughput, keep data trustworthy.
-
----
-
-## 🧠 What I’m Building Toward
-- Event-driven operations pipelines (webhooks → queues → outcomes)
-- Commerce + logistics integrations (Shopify / Woo / carriers)
-- Reliability posture: observability, idempotency, and safe retries
-- UX for ops teams: fast, opinionated interfaces that reduce clicks
-
 ---
 
 ## 🧰 Core Stack
 <p>
   <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=flat-square&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/DJANGO-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Vue-0A0A0A?style=flat-square&logo=vue.js&logoColor=42b883" />
   <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" />
