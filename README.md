@@ -49,12 +49,12 @@
 ---
 
 ## 📈 Delivery Metrics
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=MPGE&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPGE&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</p>
+##<p align="center">
+##  <img height="160"
+##       src="https://github-readme-stats.vercel.app/api?username=MPGE&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" />
+##  <img height="160"
+##       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPGE&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+##</p>
 
 ---
 
