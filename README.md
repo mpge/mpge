@@ -48,16 +48,6 @@
 
 ---
 
-## 📈 Delivery Metrics
-##<p align="center">
-##  <img height="160"
-##       src="https://github-readme-stats.vercel.app/api?username=MPGE&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" />
-##  <img height="160"
-##       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPGE&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-##</p>
-
----
-
 ## 🤝 Collaboration
 If you’re building ops-heavy product flows and want to accelerate time-to-value:
 - roadmap alignment
