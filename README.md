@@ -53,10 +53,7 @@
 Alongside my core work, I’m building **[Palettd](https://github.com/mpge/palettd)** — a side project which helps you make sweet color paletts!
 
 ## 🤝 Collaboration
-If you’re building ops-heavy product flows and want to accelerate time-to-value:
-- roadmap alignment
-- integration strategy
-- performance + reliability hardening
+Always open for collaboration
 
 <p align="center">
   <a href="https://indiepa.ge/mpg" target="_blank">
