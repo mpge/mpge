@@ -32,6 +32,13 @@
 > North Star: reduce manual touches, increase throughput, keep data trustworthy.
 ---
 
+---
+
+## ✅ 2026 Daily Commit Mission
+I’m on a mission to commit every day in 2026. At year-end, I’ll make private commits available within the commit graphic, and provide a recap!
+
+---
+
 ## 🧰 Core Stack
 <p>
   <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=flat-square&logo=laravel&logoColor=FF2D20" />
