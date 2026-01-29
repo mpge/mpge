@@ -30,7 +30,6 @@
 - **Scale-ready**: multi-tenant patterns and performance-minded architecture
 
 > North Star: reduce manual touches, increase throughput, keep data trustworthy.
----
 
 ---
 
