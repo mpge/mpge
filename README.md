@@ -34,7 +34,7 @@
 ---
 
 ## ✅ 2026 Daily Commit Mission
-I’m on a mission to commit every day in 2026. At year-end, I’ll make private commits available within the commit graphic, and provide a recap!
+I’m on a mission to commit every day in 2026.
 
 ---
 
