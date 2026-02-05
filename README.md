@@ -50,6 +50,7 @@ I’m on a mission to commit every day in 2026.
   <img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=FF9900" />
 </p>
 
 ---
