@@ -42,8 +42,8 @@ I’m on a mission to commit every day in 2026.
 <p>
   <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=flat-square&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/DJANGO-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=flat-square&logo=python&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/DJANGO-0A0A0A?style=flat-square&logo=django&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Vue-0A0A0A?style=flat-square&logo=vue.js&logoColor=42b883" />
   <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" />
