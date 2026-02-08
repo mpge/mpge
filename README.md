@@ -1,7 +1,7 @@
 # MPGE
 
 <p align="center">
-  Hey, I'm Matt! I've been a developer for more than 14 years, and I've worked with more stacks than I can count over the years.
+  Hey, I’m Matt. I’ve been building and shipping software for 14+ years across a wide range of stacks, industries, and problem spaces.
 </p>
 
 <p align="center">
@@ -15,26 +15,38 @@
 </p>
 
 <p align="center">
-  <b>Builder mindset.</b> I ship products that help everyday users, like yourself.
+  <b>Product-driven builder.</b> I ship pragmatic platforms that reduce friction, scale cleanly, and create compounding operational leverage.
 </p>
 
 ---
 
-## 🚀 Flagship: Inventoros
-**Inventoros** is my operations layer for inventory + warehouse workflows — designed to be modular, integration-first, and scalable.
+## 🚀 Flagship Platforms
 
-**Strategic pillars**
-- **Workflow-native**: picking, packing, receiving, adjustments, and audit trails
-- **Integration-first**: webhooks, jobs, and clean data contracts
-- **Operational clarity**: dashboards, exceptions, and “what changed?” visibility
-- **Scale-ready**: multi-tenant patterns and performance-minded architecture
+### Escalated
+**Escalated** is an embeddable support and ticketing platform built for modern product teams that want enterprise-grade workflows without enterprise drag.
 
-> North Star: reduce manual touches, increase throughput, keep data trustworthy.
+**Strategic focus**
+- **Embeddable-first**: drop-in support portals and admin surfaces  
+- **Workflow intelligence**: SLAs, escalation rules, ownership, and auditability  
+- **Framework-agnostic**: Laravel, Rails, Django, and API-first consumers  
+- **Flexible deployment**: cloud, self-hosted, or hybrid  
+
+> North Star: transform support from a reactive cost center into a measurable, scalable system.
+
+---
+
+### Inventoros
+**Inventoros** is a modular operations and inventory platform focused on warehouse and fulfillment workflows. It’s positioned as a composable operations layer rather than a rigid monolith.
+
+**Positioning**
+- Workflow-native inventory movements and adjustments  
+- Integration-first architecture with clean data contracts  
+- Performance- and scale-aware by design  
 
 ---
 
 ## ✅ 2026 Daily Commit Mission
-I’m on a mission to commit every day in 2026.
+I’m executing on a daily commit cadence throughout 2026—shipping continuously, iterating in public, and compounding momentum.
 
 ---
 
@@ -42,8 +54,8 @@ I’m on a mission to commit every day in 2026.
 <p>
   <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=flat-square&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/DJANGO-0A0A0A?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Django-0A0A0A?style=flat-square&logo=django" />
   <img src="https://img.shields.io/badge/Vue-0A0A0A?style=flat-square&logo=vue.js&logoColor=42b883" />
   <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" />
@@ -54,15 +66,17 @@ I’m on a mission to commit every day in 2026.
 
 ---
 
-## Palettd
+## 🎨 Palettd
+Alongside my core platforms, I’m building **[Palettd](https://github.com/mpge/palettd)** — a lightweight tool for generating and exploring modern color palettes with developer-friendly output.
 
-Alongside my core work, I’m building **[Palettd](https://github.com/mpge/palettd)** — a side project which helps you make sweet color paletts!
+---
 
 ## 🤝 Collaboration
-Always open for collaboration
+Always open to collaboration, partnerships, and ambitious builds.
 
 <p align="center">
   <a href="https://indiepa.ge/mpg" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20my%20builds-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
