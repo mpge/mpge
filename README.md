@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://indiepa.ge/mpg" target="_blank">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=mpge)](https://git.io/streak-stats)
+    <img src="https://img.shields.io/badge/IndiePage-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/MPGE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MPGE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
@@ -14,9 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=MPGE&style=for-the-badge&color=0A0A0A" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mpge&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=mpge)](https://git.io/streak-stats)
 
 <p align="center">
   <b>Product-driven builder.</b> I ship pragmatic platforms that reduce friction, scale cleanly, and create compounding operational leverage.
