@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://indiepa.ge/mpg" target="_blank">
-    <img src="https://img.shields.io/badge/IndiePage-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=mpge)](https://git.io/streak-stats)
   </a>
   <a href="https://github.com/MPGE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MPGE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
