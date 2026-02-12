@@ -1,7 +1,7 @@
 # MPGE
 
 <p align="center">
-  Hey, I’m Matt. I’ve been building and shipping software for 14+ years across a wide range of stacks, industries, and problem spaces.
+  Hey, I’m Matt. I’ve been building and shipping software for 14+ years professionally (much earlier as a hobby) across a wide range of stacks, industries, and problem spaces. I hold the contempt of being able to say I learnt code out of textbooks in my teens, wrote it on a piece of paper, only to try it out on my computer later. Things have changed.
 </p>
 
 <p align="center">
