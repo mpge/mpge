@@ -23,6 +23,8 @@
   </a>
 </p>
 
+<p>Read my thoughts on vibe coding: <a href="https://github.com/mpge/ASeniorDevelopersThoughtsOnVibeCoding">A senior developers thoughts on vibe coding</a></p>
+
 
 <p align="center">
   <b>Product-driven builder.</b> I ship pragmatic platforms that reduce friction, scale cleanly, and create compounding operational leverage.
