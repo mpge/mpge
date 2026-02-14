@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<p>Read my thoughts on vibe coding: <a href="https://github.com/mpge/ASeniorDevelopersThoughtsOnVibeCoding">A senior developers thoughts on vibe coding</a></p>
+<p align="center">Read my thoughts on vibe coding: <a href="https://github.com/mpge/ASeniorDevelopersThoughtsOnVibeCoding">A senior developers thoughts on vibe coding</a></p>
 
 
 <p align="center">
