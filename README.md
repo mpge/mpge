@@ -25,11 +25,6 @@
 
 <p align="center">Read my thoughts on vibe coding: <a href="https://github.com/mpge/ASeniorDevelopersThoughtsOnVibeCoding">A senior developers thoughts on vibe coding</a></p>
 
-
-<p align="center">
-  <b>Product-driven builder.</b> I ship pragmatic platforms that reduce friction, scale cleanly, and create compounding operational leverage.
-</p>
-
 ---
 
 ## 🚀 Flagship Platforms
@@ -42,8 +37,6 @@
 - **Workflow intelligence**: SLAs, escalation rules, ownership, and auditability  
 - **Framework-agnostic**: Laravel, Rails, Django, and API-first consumers  
 - **Flexible deployment**: cloud, self-hosted, or hybrid  
-
-> North Star: transform support from a reactive cost center into a measurable, scalable system.
 
 ---
 
