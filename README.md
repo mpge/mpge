@@ -61,8 +61,8 @@ I’m executing on a daily commit cadence throughout 2026—shipping continuousl
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Django-0A0A0A?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/Vue-0A0A0A?style=flat-square&logo=vue.js&logoColor=42b883" />
   <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" />
