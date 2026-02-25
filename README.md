@@ -14,10 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=MPGE&style=for-the-badge&color=0A0A0A" />
 </p>
 
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mpge" />
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mpge" />
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mpge&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mpge&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mpge&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mpge&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</p>
 
 <p align="center">Read my thoughts on vibe coding: <a href="https://github.com/mpge/ASeniorDevelopersThoughtsOnVibeCoding">A senior developers thoughts on vibe coding</a></p>
 
