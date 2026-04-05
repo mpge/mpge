@@ -1,7 +1,7 @@
 # MPGE
 
 <p align="center">
-  Hey, I’m Matt. I’ve been building and shipping software for 14+ years professionally (much earlier as a hobby) across a wide range of stacks, industries, and problem spaces. I hold the contempt of being able to say I learnt code out of textbooks in my teens, wrote it on a piece of paper, only to try it out on my computer later. Things have changed.
+  Hey, I’m Matt. I’ve been building and shipping software for 14+ years professionally (much earlier as a hobby) across a wide range of stacks and industries. I hold the contempt of being able to say I learnt code out of textbooks in my teens, wrote it on a piece of paper, only to try it out on my computer later. Things have changed.
 </p>
 
 <p align="center">
@@ -36,8 +36,8 @@
 **Strategic focus**
 - **Embeddable-first**: drop-in support portals and admin surfaces  
 - **Workflow intelligence**: SLAs, escalation rules, ownership, and auditability  
-- **Framework-agnostic**: Laravel, Rails, Django, and API-first consumers  
-- **Flexible deployment**: cloud, self-hosted, or hybrid  
+- **Framework-agnostic**: Laravel, Rails, Django, and more.  
+- **Flexible deployment**: cloud, self-hosted, or hybrid (cloud / hybrid coming soon)
 
 ---
 
@@ -52,7 +52,8 @@
 ---
 
 ## ✅ 2026 Daily Commit Mission
-I’m executing on a daily commit cadence throughout 2026—shipping continuously, iterating in public, and compounding momentum.
+
+I’m executing on a daily commit cadence throughout 2026. 
 
 ---
 
