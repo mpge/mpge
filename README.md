@@ -39,8 +39,6 @@
 - **Framework-agnostic**: Laravel, Rails, Django, and more.  
 - **Flexible deployment**: cloud, self-hosted, or hybrid (cloud / hybrid coming soon)
 
----
-
 ### Inventoros
 **Inventoros** is a modular operations and inventory platform focused on warehouse and fulfillment workflows. It’s positioned as a composable operations layer rather than a rigid monolith.
 
@@ -48,6 +46,9 @@
 - Workflow-native inventory movements and adjustments  
 - Integration-first architecture with clean data contracts  
 - Performance- and scale-aware by design  
+
+### Palettd
+Alongside my core platforms, I’m building **[Palettd](https://github.com/mpge/palettd)** — a lightweight tool for generating and exploring modern color palettes with developer-friendly output.
 
 ---
 
@@ -72,13 +73,6 @@ I’m executing on a daily commit cadence throughout 2026.
   <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust" />
 </p>
-
----
-
-## 🎨 Palettd
-Alongside my core platforms, I’m building **[Palettd](https://github.com/mpge/palettd)** — a lightweight tool for generating and exploring modern color palettes with developer-friendly output.
-
----
 
 ## 🤝 Collaboration
 Always open to collaboration, partnerships, and ambitious builds.
