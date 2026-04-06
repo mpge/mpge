@@ -23,7 +23,7 @@ jobs:
           period: "30"
           output_path: ./code-per-day
           all_themes: "true"
-          chart_type: bars
+          chart_type: area
           animations: "true"
 
       - name: Commit and push

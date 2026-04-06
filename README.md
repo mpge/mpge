@@ -85,7 +85,7 @@ Always open to collaboration, partnerships, and ambitious builds.
 
 <p align="center">
   <a href="https://github.com/mpge/code-per-day" target="_blank">
-    <img src="./code-per-day/code-per-day-dark.svg" alt="Code Per Day" />
+    <img src="./code-per-day/code-per-day-dark.svg" alt="Code Per Day — area chart" />
   </a>
 </p>
 
