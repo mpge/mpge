@@ -1,0 +1,40 @@
+name: Code Per Day
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Code Per Day charts
+        uses: mpge/code-per-day@v1
+        with:
+          github_token: ${{ secrets.CPD_TOKEN }}
+          theme: dark
+          period: "30"
+          output_path: ./code-per-day
+          all_themes: "true"
+          chart_type: bars
+          animations: "true"
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add code-per-day/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update code-per-day charts"
+          git pull --rebase origin main
+          git push origin HEAD:main

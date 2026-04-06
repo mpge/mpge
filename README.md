@@ -84,6 +84,10 @@ Always open to collaboration, partnerships, and ambitious builds.
 </p>
 
 <p align="center">
+  <img src="./code-per-day/code-per-day-dark.svg" alt="Code Per Day" />
+</p>
+
+<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
