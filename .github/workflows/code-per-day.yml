@@ -2,7 +2,9 @@ name: Code Per Day
 
 on:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 14 * * *"  # 9am EST
+    - cron: "0 21 * * *"  # 4pm EST
+    - cron: "0 1 * * *"   # 8pm EST
   workflow_dispatch:
 
 permissions:
