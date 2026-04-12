@@ -50,6 +50,9 @@
 ### Palettd
 Alongside my core platforms, I’m building **[Palettd](https://github.com/mpge/palettd)** — a lightweight tool for generating and exploring modern color palettes with developer-friendly output.
 
+### Canadian Laws
+In case you are interested in **[Canadian Law](https://github.com/XYOca/laws-lois-markdown)**
+
 ---
 
 ## ✅ 2026 Daily Commit Mission
