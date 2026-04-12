@@ -1,7 +1,7 @@
 # MPGE
 
 <p align="center">
-  Hey, I’m Matt. I’ve been building and shipping software for 14+ years professionally (much earlier as a hobby) across a wide range of stacks and industries. I hold the contempt of being able to say I learnt code out of textbooks in my teens, wrote it on a piece of paper, only to try it out on my computer later. Things have changed.
+  Hey, I’m Matt. I’ve been building and shipping software for 14+ years professionally (much earlier as a hobby) across a wide range of stacks and industries. I can honestly say I learned to code the old-school way studying textbooks as a teenager, writing everything out by hand, then testing it later on a computer. It’s a completely different landscape now. Things have changed.
 </p>
 
 <p align="center">
