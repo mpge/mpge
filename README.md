@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <strong><a href="https://github.com/mpge/awesome-support">Need some support?</a></strong>
+</p>
+
+<p align="center">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mpge&theme=transparent" />
 </p>
 <p align="center">
