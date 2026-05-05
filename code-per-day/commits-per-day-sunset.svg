@@ -1,0 +1,61 @@
+<svg width="840" height="460" viewBox="0 0 840 460" xmlns="http://www.w3.org/2000/svg">
+  
+    <style>
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes growBar {
+        from { transform: scaleY(0); }
+        to   { transform: scaleY(1); }
+      }
+      .cpd-header  { animation: fadeInUp 0.5s ease both; }
+      .cpd-stats   { animation: fadeInUp 0.5s ease 0.15s both; }
+      .cpd-chart   { animation: fadeInUp 0.5s ease 0.3s both; }
+      .cpd-legend  { animation: fadeInUp 0.5s ease 0.45s both; }
+    </style>
+
+  <rect width="840" height="460" rx="12" fill="#1a1028" stroke="#3d2660" stroke-width="1"/>
+
+  <g class="cpd-header">
+    <a href="https://github.com/mpge/code-per-day" target="_blank">
+      <text x="24" y="44" fill="#f0d0ff" font-size="18" font-family="'Segoe UI', sans-serif" font-weight="700">Commits Per Day</text>
+    </a>
+    <text x="816" y="44" fill="#7a5a8e" font-size="13" font-family="'Segoe UI', sans-serif" text-anchor="end" font-weight="500">@mpge</text>
+  </g>
+
+  <g class="cpd-stats">
+    
+    <rect x="24" y="60" width="190" height="68" rx="8" fill="#160e22" stroke="#3d2660" stroke-width="1"/>
+    <text x="119" y="78" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle" font-weight="500">Today</text>
+    <text x="119" y="104" fill="#ff79c6" font-size="20" font-family="'Segoe UI Mono', 'Cascadia Code', monospace" text-anchor="middle" font-weight="700">30</text>
+    <text x="119" y="120" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle">commits</text>
+    <rect x="222" y="60" width="190" height="68" rx="8" fill="#160e22" stroke="#3d2660" stroke-width="1"/>
+    <text x="317" y="78" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle" font-weight="500">30d Avg</text>
+    <text x="317" y="104" fill="#ff79c6" font-size="20" font-family="'Segoe UI Mono', 'Cascadia Code', monospace" text-anchor="middle" font-weight="700">52</text>
+    <text x="317" y="120" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle">avg/day</text>
+    <rect x="420" y="60" width="190" height="68" rx="8" fill="#160e22" stroke="#3d2660" stroke-width="1"/>
+    <text x="515" y="78" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle" font-weight="500">Year Avg</text>
+    <text x="515" y="104" fill="#ff79c6" font-size="20" font-family="'Segoe UI Mono', 'Cascadia Code', monospace" text-anchor="middle" font-weight="700">7</text>
+    <text x="515" y="120" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle">avg/day</text>
+    <rect x="618" y="60" width="190" height="68" rx="8" fill="#160e22" stroke="#3d2660" stroke-width="1"/>
+    <text x="713" y="78" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle" font-weight="500">Best Day</text>
+    <text x="713" y="104" fill="#ff79c6" font-size="20" font-family="'Segoe UI Mono', 'Cascadia Code', monospace" text-anchor="middle" font-weight="700">144</text>
+    <text x="713" y="120" fill="#7a5a8e" font-size="11" font-family="'Segoe UI', sans-serif" text-anchor="middle">commits</text>
+  </g>
+
+  <g class="cpd-chart">
+    <line x1="72" y1="148" x2="808" y2="148" stroke="#2d1c44" stroke-width="1" stroke-dasharray="4,4"/><line x1="72" y1="208.5" x2="808" y2="208.5" stroke="#2d1c44" stroke-width="1" stroke-dasharray="4,4"/><line x1="72" y1="269" x2="808" y2="269" stroke="#2d1c44" stroke-width="1" stroke-dasharray="4,4"/><line x1="72" y1="329.5" x2="808" y2="329.5" stroke="#2d1c44" stroke-width="1" stroke-dasharray="4,4"/><line x1="72" y1="390" x2="808" y2="390" stroke="#2d1c44" stroke-width="1" stroke-dasharray="4,4"/><line x1="72" y1="390" x2="808" y2="390" stroke="#3d2660" stroke-width="1.5"/><text x="64" y="162" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="end">204</text><text x="64" y="394" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="end">0</text><rect x="72" y="304.5882352941176" width="21.741935483870968" height="85.41176470588236" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-05: 72 commits</title></rect><rect x="95.74193548387098" y="235.7843137254902" width="21.741935483870968" height="154.2156862745098" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-06: 130 commits</title></rect><rect x="119.48387096774194" y="372.20588235294116" width="21.741935483870968" height="17.794117647058822" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-07: 15 commits</title></rect><rect x="143.2258064516129" y="219.17647058823528" width="21.741935483870968" height="170.82352941176472" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-08: 144 commits</title></rect><rect x="166.96774193548387" y="302.21568627450984" width="21.741935483870968" height="87.7843137254902" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-09: 74 commits</title></rect><rect x="190.70967741935485" y="371.01960784313724" width="21.741935483870968" height="18.980392156862745" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-10: 16 commits</title></rect><rect x="214.4516129032258" y="388.8137254901961" width="21.741935483870968" height="1.1862745098039216" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-11: 1 commits</title></rect><rect x="238.19354838709677" y="380.5098039215686" width="21.741935483870968" height="9.490196078431373" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-12: 8 commits</title></rect><rect x="261.93548387096774" y="329.5" width="21.741935483870968" height="60.5" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-13: 51 commits</title></rect><rect x="285.6774193548387" y="381.69607843137254" width="21.741935483870968" height="8.303921568627452" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-14: 7 commits</title></rect><rect x="333.16129032258067" y="388.8137254901961" width="21.741935483870968" height="1.1862745098039216" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-16: 1 commits</title></rect><rect x="380.64516129032256" y="369.8333333333333" width="21.741935483870968" height="20.166666666666664" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-18: 17 commits</title></rect><rect x="404.38709677419354" y="309.33333333333337" width="21.741935483870968" height="80.66666666666666" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-19: 68 commits</title></rect><rect x="428.1290322580645" y="361.52941176470586" width="21.741935483870968" height="28.470588235294116" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-20: 24 commits</title></rect><rect x="451.8709677419355" y="369.8333333333333" width="21.741935483870968" height="20.166666666666664" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-21: 17 commits</title></rect><rect x="475.61290322580646" y="387.62745098039215" width="21.741935483870968" height="2.372549019607843" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-22: 2 commits</title></rect><rect x="499.35483870967744" y="315.2647058823529" width="21.741935483870968" height="74.73529411764706" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-23: 63 commits</title></rect><rect x="523.0967741935484" y="254.76470588235293" width="21.741935483870968" height="135.23529411764707" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-24: 114 commits</title></rect><rect x="546.8387096774194" y="373.3921568627451" width="21.741935483870968" height="16.607843137254903" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-25: 14 commits</title></rect><rect x="570.5806451612902" y="299.843137254902" width="21.741935483870968" height="90.15686274509804" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-26: 76 commits</title></rect><rect x="594.3225806451613" y="239.34313725490196" width="21.741935483870968" height="150.65686274509804" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-27: 127 commits</title></rect><rect x="618.0645161290323" y="316.45098039215685" width="21.741935483870968" height="73.54901960784314" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-28: 62 commits</title></rect><rect x="641.8064516129032" y="362.7156862745098" width="21.741935483870968" height="27.284313725490197" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-29: 23 commits</title></rect><rect x="665.5483870967741" y="226.2941176470588" width="21.741935483870968" height="163.7058823529412" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-04-30: 138 commits</title></rect><rect x="689.2903225806451" y="221.54901960784315" width="21.741935483870968" height="168.45098039215685" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-05-01: 142 commits</title></rect><rect x="713.0322580645161" y="292.72549019607845" width="21.741935483870968" height="97.27450980392157" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-05-02: 82 commits</title></rect><rect x="736.7741935483871" y="292.72549019607845" width="21.741935483870968" height="97.27450980392157" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-05-03: 82 commits</title></rect><rect x="760.516129032258" y="362.7156862745098" width="21.741935483870968" height="27.284313725490197" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-05-04: 23 commits</title></rect><rect x="784.258064516129" y="354.4117647058824" width="21.741935483870968" height="35.588235294117645" fill="#ff79c6" rx="3" opacity="0.9"><title>2026-05-05: 30 commits</title></rect><text x="82.87096774193549" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">Apr 5</text><text x="201.58064516129033" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">Apr 10</text><text x="320.2903225806452" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">Apr 15</text><text x="439" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">Apr 20</text><text x="557.7096774193549" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">Apr 25</text><text x="676.4193548387096" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">Apr 30</text><text x="795.1290322580645" y="426" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle">May 5</text>
+  </g>
+
+  <g class="cpd-legend">
+    
+    <circle cx="30" cy="442" r="5" fill="#ff79c6"/>
+    <text x="40" y="446" fill="#c4a0d8" font-size="11" font-family="'Segoe UI', sans-serif">Commits</text>
+    <text x="816" y="446" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="end">Last 31 days · 1,623 commits</text>
+  </g>
+
+  <a href="https://github.com/mpge/code-per-day" target="_blank">
+    <text x="420" y="452" fill="#7a5a8e" font-size="10" font-family="'Segoe UI', sans-serif" text-anchor="middle" opacity="0.6">Get your own - github.com/mpge/code-per-day</text>
+  </a>
+</svg>
