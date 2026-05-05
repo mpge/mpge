@@ -18,12 +18,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Code Per Day charts
-        uses: mpge/code-per-day@v1
+        uses: mpge/code-per-day@main
         with:
           github_token: ${{ secrets.CPD_TOKEN }}
           theme: dark
           period: "30"
           output_path: ./code-per-day
+          image_types: "code,commits"
           all_themes: "true"
           chart_type: area
           animations: "true"

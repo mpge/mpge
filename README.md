@@ -97,6 +97,12 @@ Always open to collaboration, partnerships, and ambitious builds.
 </p>
 
 <p align="center">
+  <a href="https://github.com/mpge/code-per-day" target="_blank">
+    <img src="./code-per-day/commits-per-day-dark.svg" alt="Commits Per Day" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
