@@ -100,7 +100,6 @@
     <tr>
         <td>Personal</td>
         <td><ul>
-            <li><a href="https://github.com/mpge/matthewgross.github.io">matthewgross.github.io</a> — personal website</li>
             <li><a href="https://github.com/mpge/email-signature">email-signature</a> — my email signature</li>
         </ul></td>
     </tr>
