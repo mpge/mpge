@@ -63,7 +63,6 @@
             <li><a href="https://github.com/mpge/ctrlr">ctrlr</a> — control your AI agents like a game controller; a local-first multi-agent orchestrator driven by a USB gamepad</li>
             <li><a href="https://github.com/mpge/look-for-work-claude">look-for-work-claude</a> — proactive codebase analysis plugin for Claude Code that dispatches parallel agents to surface high-impact improvements</li>
             <li><a href="https://github.com/mpge/look-for-work-codex">look-for-work-codex</a> — same idea, ported to Codex CLI</li>
-            <li><a href="https://github.com/mpge/maestro">maestro</a> — the Bloomberg Terminal for CLI agents</li>
         </ul></td>
     </tr>
     <tr>
@@ -71,7 +70,6 @@
         <td><ul>
             <li><a href="https://github.com/mpge/govel">govel</a> — Go-powered task execution for Laravel; run high-performance jobs as if they were native</li>
             <li><a href="https://github.com/mpge/govel-monitor">govel-monitor</a> — real-time task monitoring dashboard for Govel</li>
-            <li><a href="https://github.com/mpge/voyager-cheatsheet">voyager-cheatsheet</a> — Laravel Voyager admin cheat sheet</li>
         </ul></td>
     </tr>
     <tr>
