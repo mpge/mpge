@@ -97,12 +97,6 @@
             <li><a href="https://github.com/mpge/ASeniorDevelopersThoughtsOnVibeCoding">A senior developer's thoughts on vibe coding</a></li>
         </ul></td>
     </tr>
-    <tr>
-        <td>Personal</td>
-        <td><ul>
-            <li><a href="https://github.com/mpge/email-signature">email-signature</a> — my email signature</li>
-        </ul></td>
-    </tr>
 </table>
 
 ---
