@@ -85,7 +85,6 @@
         <td><ul>
             <li><a href="https://github.com/mpge/CanRunAds">CanRunAds</a> — JavaScript-based adblocker detection that runs against ad blockers</li>
             <li><a href="https://github.com/mpge/chrome-ad-fallback-screenshot">chrome-ad-fallback-screenshot</a> — Chrome extension for ad agencies to screenshot, resize, compress, and save ad fallbacks</li>
-            <li><a href="https://github.com/mpge/chrome-cache-and-cookies">chrome-cache-and-cookies</a> — Chrome extension to refresh a site's cache &amp; cookies with hotkey support</li>
             <li><a href="https://github.com/mpge/resetbrowser">resetbrowser</a> — fix login or loading issues in 30 seconds; clear cookies &amp; cache step-by-step</li>
         </ul></td>
     </tr>
