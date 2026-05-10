@@ -11,7 +11,9 @@
   <a href="https://github.com/MPGE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MPGE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MPGE&style=for-the-badge&color=0A0A0A" />
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=MPGE&style=for-the-badge&color=0A0A0A" />
+  </a>
 </p>
 
 <p align="center">
