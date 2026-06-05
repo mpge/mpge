@@ -39,6 +39,14 @@
 - Workflow-native inventory movements and adjustments
 - Integration-first architecture with clean data contracts
 - Performance- and scale-aware by design
+### Saddle
+**[Saddle](https://github.com/SaddlePHP/saddlephp)** is an open-source admin panel framework for Laravel, built for Inertia.js and Vue. Define a resource class and get a full admin panel: forms, tables, filters, search, and authorization, with no npm steps in the host app.
+
+- Resource-first CRUD with form and table builders
+- Policy-driven access control down to individual fields
+- Framework-agnostic plugin system built on custom elements
+- Prebuilt panel assets, nothing to compile in your app
+
 
 ---
 
