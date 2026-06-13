@@ -28,10 +28,10 @@
 ### Escalated
 **[Escalated](https://github.com/escalated-dev/escalated)** is an open-source, embeddable support and ticketing platform built for modern product teams that want enterprise-grade workflows without enterprise drag. A shared Inertia.js UI runs natively inside Laravel, Rails, Django, AdonisJS, and more.
 
-- **Embeddable-first** — drop-in support portals and admin surfaces
-- **Workflow intelligence** — SLAs, escalation rules, ownership, and auditability
-- **Framework-agnostic** — Laravel, Rails, Django, AdonisJS, WordPress, Filament, and more
-- **Flexible deployment** — cloud, self-hosted, or hybrid (cloud / hybrid coming soon)
+- **Embeddable-first** drop-in support portals and admin surfaces
+- **Workflow intelligence** SLAs, escalation rules, ownership, and auditability
+- **Framework-agnostic** Laravel, Rails, Django, AdonisJS, WordPress, Filament, and more
+- **Flexible deployment** cloud, self-hosted, or hybrid (cloud / hybrid coming soon)
 
 ### Inventoros
 **[Inventoros](https://github.com/Inventoros/Inventoros)** is an open-source, modular operations and inventory platform focused on warehouse and fulfillment workflows. It's positioned as a composable operations layer rather than a rigid monolith.
@@ -39,6 +39,7 @@
 - Workflow-native inventory movements and adjustments
 - Integration-first architecture with clean data contracts
 - Performance- and scale-aware by design
+
 ### Saddle
 **[Saddle](https://github.com/SaddlePHP/saddlephp)** is an open-source admin panel framework similar to Filament for Laravel, with one caveat. It's built on Inertia.js and Vue. Define a resource class and get a full admin panel: forms, tables, filters, search, and authorization, with no npm steps in the host app.
 
@@ -46,7 +47,6 @@
 - Policy-driven access control down to individual fields
 - Framework-agnostic plugin system built on custom elements
 - Prebuilt panel assets, nothing to compile in your app
-
 
 ---
 
