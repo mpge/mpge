@@ -110,7 +110,10 @@
 
 <p align="center">
   <a href="https://github.com/mpge/tend" target="_blank">
-    <img src="https://raw.githubusercontent.com/mpge/tend/main/public/tend-logo.png" width="150" alt="Tend" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mpge/tend/main/public/tend-logo-dark.png">
+      <img src="https://raw.githubusercontent.com/mpge/tend/main/public/tend-logo.png" width="150" alt="Tend" />
+    </picture>
   </a>
   <br>
   <strong><a href="https://github.com/mpge/tend">Tend</a></strong> &mdash; a personal task &amp; habit manager: two-lane tasks, habit streaks, and daily insights to keep you on track. Built with Laravel + Inertia + Vue.
