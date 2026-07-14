@@ -177,3 +177,9 @@ Always open to collaboration, partnerships, and ambitious builds.
     <img src="https://img.shields.io/badge/Follow%20my%20builds-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <a href="http://matthewpg.com" target="_blank">
+    <img src="[https://img.shields.io/badge/Follow%20my%20builds-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/View%20my%20site-matthewpg.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)" />
+  </a>
+</p>
