@@ -126,10 +126,10 @@
 I'm executing on a daily commit cadence throughout 2026.
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=mpge&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mpge&bg_color=00000000&hide_border=true&color=006AFF&line=006AFF&point=417E87&area=true" />
 </p>
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mpge&theme=transparent" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=mpge&theme=transparent" />
 </p>
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mpge&layout=compact&langs_count=8&card_width=320&theme=transparent" />
