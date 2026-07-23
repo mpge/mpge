@@ -116,7 +116,7 @@
     </picture>
   </a>
   <br>
-  <strong><a href="https://github.com/mpge/tend">Tend</a></strong> &mdash; a personal task &amp; habit manager: two-lane tasks, habit streaks, and daily insights to keep you on track. Built with Laravel + Inertia + Vue.
+  <strong><a href="https://github.com/mpge/tend">Tend</a></strong> - a personal task &amp; habit manager: two-lane tasks, habit streaks, and daily insights to keep you on track. Built with Laravel + Inertia + Vue. Fully open source.
 </p>
 
 ---
