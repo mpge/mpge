@@ -85,7 +85,7 @@
     <tr>
         <td>Developer Tooling</td>
         <td><ul>
-            <li><a href="https://github.com/mpge/DomainGen">DomainGen</a> — dependency-free bulk domain availability checker for .com/.ai using authoritative registry RDAP data, built for brand-naming sprints</li>
+            <li><a href="https://github.com/mpge/DomainGen">DomainGen</a> — dependency-free bulk domain availability checker using authoritative registry RDAP data, built for brand-naming sprints</li>
             <li><a href="https://github.com/mpge/code-per-day">code-per-day</a> — GitHub Action that generates beautiful SVG charts of your daily code additions and deletions</li>
             <li><a href="https://github.com/mpge/palettd">palettd</a> — node-based color palette generator with developer-friendly output (drop in your hex codes, get a cool image for your READMEs)</li>
             <li><a href="https://github.com/mpge/git-lost-and-found-finder">git-lost-and-found-finder</a> — finds a lost file from git's lost-and-found</li>
