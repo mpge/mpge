@@ -80,6 +80,7 @@
         <td><ul>
             <li><a href="https://github.com/mpge/govel">govel</a> — Go-powered task execution for Laravel; run high-performance jobs as if they were native</li>
             <li><a href="https://github.com/mpge/govel-monitor">govel-monitor</a> — real-time task monitoring dashboard for Govel</li>
+            <li><a href="https://github.com/mpge/PHP-Country-Block">PHP-Country-Block</a> — block or allow web traffic by country; six geolocation providers (IP2Location, MaxMind, Cloudflare, ipinfo and more) behind one interface, with fallback chaining, PSR-16 caching and trusted-proxy handling</li>
         </ul></td>
     </tr>
     <tr>
