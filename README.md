@@ -48,6 +48,14 @@
 - Framework-agnostic plugin system built on custom elements
 - Prebuilt panel assets, nothing to compile in your app
 
+### Cauldron
+**[Cauldron](https://github.com/CauldronUp/cauldron)** is an open-source emulator for the third-party APIs an application depends on. Point an SDK's base URL at it and Stripe, GitHub, Shopify, WordPress, Salesforce and seventy more answer offline, deterministically, and with the failure modes their own sandboxes cannot produce.
+
+- **Recipes, not mocks** declarative YAML describing state, transitions, webhooks and each provider's real error taxonomy
+- **Conformance suites** every claim cites the provider's documentation, and the report says plainly what has and has not been checked against the live API
+- **Fault injection, clock control, request log** rate limits on demand, subscriptions aged into dunning, and a record of what your code actually sent
+- **Headless mode** drops into a Docker Compose or CI setup you already have, without bringing an environment of its own
+
 ---
 
 ## Areas of interest
