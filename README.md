@@ -136,7 +136,7 @@
 I'm executing on a daily commit cadence throughout 2026.
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mpge&bg_color=00000000&hide_border=true&color=006AFF&line=006AFF&point=417E87&area=true" />
+  <img align="center" src="https://ghchart.rshah.org/006AFF/mpge" alt="mpge's contribution graph" />
 </p>
 <p align="center">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=mpge&theme=transparent" />
@@ -190,6 +190,6 @@ Always open to collaboration, partnerships, and ambitious builds.
 
 <p align="center">
   <a href="http://matthewpg.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Follow%20my%20builds-indiepa.ge%2Fmpg-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/View%20my%20site-matthewpg.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)" />
+    <img src="https://img.shields.io/badge/View%20my%20site-matthewpg.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="View my site - matthewpg.com" />
   </a>
 </p>
