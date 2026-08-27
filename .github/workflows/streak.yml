@@ -1,0 +1,54 @@
+name: Streak Card
+
+# The hosted streak services cannot be relied on from a README.
+# streak-stats.demolab.com cold-starts -- the first request after an idle
+# period takes about thirty seconds and answers 503 -- and GitHub's image
+# proxy gives up long before that and caches the failure, so the card stays
+# broken well after the service recovers.
+#
+# This generates the same card as a file in the repository instead, which is
+# what code-per-day and profile-3d-contrib already do here. A committed SVG
+# cannot time out.
+
+on:
+  schedule:
+    # Just after the code-per-day run, so a day's commits are counted once.
+    - cron: "20 14 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/streak.py"
+      - ".github/workflows/streak.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Render the streak card
+        env:
+          # contributionsCollection needs a token that can read the user, so
+          # this prefers the PAT the code-per-day workflow already uses and
+          # falls back to the job token.
+          GH_TOKEN: ${{ secrets.CPD_TOKEN || secrets.GITHUB_TOKEN }}
+          STREAK_USER: ${{ github.repository_owner }}
+        run: python .github/scripts/streak.py
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add streak/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update streak card"
+          git pull --rebase origin main
+          git push origin HEAD:main

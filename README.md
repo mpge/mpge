@@ -139,7 +139,9 @@ I'm executing on a daily commit cadence throughout 2026.
   <img align="center" src="https://ghchart.rshah.org/006AFF/mpge" alt="mpge's contribution graph" />
 </p>
 <p align="center">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=mpge&theme=transparent" />
+  <a href="https://github.com/mpge" target="_blank">
+    <img align="center" src="./streak/streak.svg" alt="Contribution streak" />
+  </a>
 </p>
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mpge&layout=compact&langs_count=8&card_width=320&theme=transparent" />
