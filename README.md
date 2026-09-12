@@ -11,6 +11,9 @@
   <a href="https://github.com/MPGE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MPGE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/mpge?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/mpge?affiliations=OWNER,ORGANIZATION_MEMBER&style=for-the-badge&label=Stars&color=0A0A0A" alt="Total GitHub stars across my repositories and my organizations' repositories" />
+  </a>
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=MPGE&style=for-the-badge&color=0A0A0A" />
   </a>
