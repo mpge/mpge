@@ -29,6 +29,16 @@
 ## 🚀 Flagship Platforms
 
 ### Escalated
+
+<p>
+  <a href="https://escalated.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/escalated-dark.svg">
+      <img src="./assets/logos/escalated-light.svg" alt="Escalated" height="64">
+    </picture>
+  </a>
+</p>
+
 **[Escalated](https://github.com/escalated-dev/escalated)** is an open-source, embeddable support and ticketing platform built for modern product teams that want enterprise-grade workflows without enterprise drag. A shared Inertia.js UI runs natively inside Laravel, Rails, Django, AdonisJS, and more.
 
 - **Embeddable-first** drop-in support portals and admin surfaces
@@ -37,6 +47,13 @@
 - **Flexible deployment** cloud, self-hosted, or hybrid (cloud / hybrid coming soon)
 
 ### Inventoros
+
+<p>
+  <a href="https://inventoros.com">
+    <img src="./assets/logos/inventoros.png" alt="Inventoros" width="80" height="80">
+  </a>
+</p>
+
 **[Inventoros](https://github.com/Inventoros/Inventoros)** is an open-source, modular operations and inventory platform focused on warehouse and fulfillment workflows. It's positioned as a composable operations layer rather than a rigid monolith.
 
 - Workflow-native inventory movements and adjustments
@@ -44,6 +61,16 @@
 - Performance- and scale-aware by design
 
 ### Saddle
+
+<p>
+  <a href="https://saddlephp.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/saddle-dark.png">
+      <img src="./assets/logos/saddle-light.png" alt="Saddle" height="80">
+    </picture>
+  </a>
+</p>
+
 **[Saddle](https://github.com/SaddlePHP/saddlephp)** is an open-source admin panel framework similar to Filament for Laravel, with one caveat. It's built on Inertia.js and Vue. Define a resource class and get a full admin panel: forms, tables, filters, search, and authorization, with no npm steps in the host app.
 
 - Resource-first CRUD with form and table builders
@@ -52,6 +79,13 @@
 - Prebuilt panel assets, nothing to compile in your app
 
 ### Cauldron
+
+<p>
+  <a href="https://github.com/CauldronUp/cauldron">
+    <img src="./assets/logos/cauldron.svg" alt="Cauldron" width="64" height="64">
+  </a>
+</p>
+
 **[Cauldron](https://github.com/CauldronUp/cauldron)** is an open-source emulator for the third-party APIs an application depends on. Point an SDK's base URL at it and Stripe, GitHub, Shopify, WordPress, Salesforce and seventy more answer offline, deterministically, and with the failure modes their own sandboxes cannot produce.
 
 - **Recipes, not mocks** declarative YAML describing state, transitions, webhooks and each provider's real error taxonomy
