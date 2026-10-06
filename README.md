@@ -50,7 +50,7 @@
 
 <p>
   <a href="https://inventoros.com">
-    <img src="./assets/logos/inventoros.png" alt="Inventoros" width="80" height="80">
+    <img src="./assets/logos/inventoros-light.png" alt="Inventoros" width="300">
   </a>
 </p>
 
