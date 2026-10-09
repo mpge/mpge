@@ -50,7 +50,10 @@
 
 <p>
   <a href="https://inventoros.com">
-    <img src="./assets/logos/inventoros-light.png" alt="Inventoros" width="300">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/inventoros-dark.png">
+      <img src="./assets/logos/inventoros-light.png" alt="Inventoros" width="300">
+    </picture>
   </a>
 </p>
 
@@ -82,7 +85,10 @@
 
 <p>
   <a href="https://github.com/CauldronUp/cauldron">
-    <img src="./assets/logos/cauldron.svg" alt="Cauldron" width="64" height="64">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/cauldron-dark.svg">
+      <img src="./assets/logos/cauldron-light.svg" alt="Cauldron" height="64">
+    </picture>
   </a>
 </p>
 
