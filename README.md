@@ -131,6 +131,7 @@
         <td><ul>
             <li><a href="https://github.com/mpge/govel">govel</a> — Go-powered task execution for Laravel; run high-performance jobs as if they were native</li>
             <li><a href="https://github.com/mpge/govel-monitor">govel-monitor</a> — real-time task monitoring dashboard for Govel</li>
+            <li><a href="https://github.com/mpge/tend">tend</a> — personal task &amp; habit manager with two-lane tasks, habit streaks and daily insights (Laravel + Inertia + Vue)</li>
             <li><a href="https://github.com/mpge/PHP-Country-Block">PHP-Country-Block</a> — block or allow web traffic by country; six geolocation providers (IP2Location, MaxMind, Cloudflare, ipinfo and more) behind one interface, with fallback chaining, PSR-16 caching and trusted-proxy handling</li>
         </ul></td>
     </tr>
@@ -160,17 +161,6 @@
         </ul></td>
     </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/mpge/tend" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mpge/tend/main/public/tend-logo-dark.png">
-      <img src="https://raw.githubusercontent.com/mpge/tend/main/public/tend-logo.png" width="150" alt="Tend" />
-    </picture>
-  </a>
-  <br>
-  <strong><a href="https://github.com/mpge/tend">Tend</a></strong> - a personal task &amp; habit manager: two-lane tasks, habit streaks, and daily insights to keep you on track. Built with Laravel + Inertia + Vue. Fully open source.
-</p>
 
 ---
 
