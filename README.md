@@ -85,10 +85,7 @@
 
 <p>
   <a href="https://github.com/CauldronUp/cauldron">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/cauldron-dark.svg">
-      <img src="./assets/logos/cauldron-light.svg" alt="Cauldron" height="64">
-    </picture>
+    <img src="./assets/logos/cauldron.png" alt="Cauldron" width="180">
   </a>
 </p>
 
