@@ -85,7 +85,11 @@
 
 <p>
   <a href="https://github.com/CauldronUp/cauldron">
-    <img src="./assets/logos/cauldron.png" alt="Cauldron" width="180">
+    <picture>
+      <!-- cauldron-light = light (white) text for dark mode; cauldron-dark = black text for light mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/cauldron-light.png">
+      <img src="./assets/logos/cauldron-dark.png" alt="Cauldron" width="180">
+    </picture>
   </a>
 </p>
 
