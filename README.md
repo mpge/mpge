@@ -28,24 +28,6 @@
 
 ## 🚀 Flagship Platforms
 
-### RYVR
-
-<p>
-  <a href="https://ryvr.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/ryvr-dark.png">
-      <img src="./assets/logos/ryvr-light.png" alt="RYVR" height="52">
-    </picture>
-  </a>
-</p>
-
-**[RYVR](https://github.com/RyvrAnalytics/ryvr)** is open-source, privacy-first web analytics for people who run more than one site. Every site sits on one page, RYVR tells you what changed before you go looking, and bots, AI crawlers and uptime probes are kept out of the numbers. [RYVR Cloud](https://ryvr.io/cloud/) runs it for you, with data stored in Canada (beta, by invitation).
-
-- **Every site, one view** stacked streams, "what changed" findings and a realtime view across a whole portfolio
-- **Honest numbers** crawlers, AI agents, headless browsers and monitoring probes filtered out and counted separately
-- **Private by design** no cookies, IPs never stored, visitor ids that reset daily
-- **Built to connect** REST API, an MCP server for AI assistants, and embeddable widgets with signed tokens
-
 ### Escalated
 
 <p>
@@ -98,6 +80,24 @@
 - Policy-driven access control down to individual fields
 - Framework-agnostic plugin system built on custom elements
 - Prebuilt panel assets, nothing to compile in your app
+
+### RYVR
+
+<p>
+  <a href="https://ryvr.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/ryvr-dark.png">
+      <img src="./assets/logos/ryvr-light.png" alt="RYVR" height="52">
+    </picture>
+  </a>
+</p>
+
+**[RYVR](https://github.com/RyvrAnalytics/ryvr)** is open-source, privacy-first web analytics for people who run more than one site. Every site sits on one page, RYVR tells you what changed before you go looking, and bots, AI crawlers and uptime probes are kept out of the numbers. [RYVR Cloud](https://ryvr.io/cloud/) runs it for you, with data stored in Canada (beta, by invitation).
+
+- **Every site, one view** stacked streams, "what changed" findings and a realtime view across a whole portfolio
+- **Honest numbers** crawlers, AI agents, headless browsers and monitoring probes filtered out and counted separately
+- **Private by design** no cookies, IPs never stored, visitor ids that reset daily
+- **Built to connect** REST API, an MCP server for AI assistants, and embeddable widgets with signed tokens
 
 ### Cauldron
 
