@@ -195,9 +195,6 @@ I'm executing on a daily commit cadence throughout 2026.
     <img align="center" src="./streak/streak.svg" alt="Contribution streak" />
   </a>
 </p>
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mpge&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</p>
 
 <p align="center">
   <a href="https://github.com/mpge/code-per-day" target="_blank">
